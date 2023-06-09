@@ -1,2 +1,2 @@
 # targetMasaDepan
-Repository untuk menyimpan rencana kedepannya
+Repository untuk menyimpan rencana kedepannya (Hanya Contoh)
